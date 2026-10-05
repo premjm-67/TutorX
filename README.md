@@ -10,7 +10,7 @@ giving Claude Desktop direct programmatic control over your VS Code environment.
 
 Unlike GitHub Copilot which only **suggests** code, Live Code AI goes further:
 
-| | GitHub Copilot | Live Code AI |
+| | GitHub Copilot | TutorX |
 |---|---|---|
 | Works inside | VS Code only | Claude Desktop → VS Code |
 | CRUD operations | ❌ | ✅ Full create, read, update, delete |
@@ -20,7 +20,7 @@ Unlike GitHub Copilot which only **suggests** code, Live Code AI goes further:
 | Terminal control | Limited | ✅ Full shell command execution |
 | Error analysis | ❌ | ✅ Real-time diagnostics |
 
-> *"GitHub Copilot suggests. Live Code AI teaches."*
+> *"GitHub Copilot suggests. TutorX teaches."*
 
 ---
 

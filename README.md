@@ -8,7 +8,7 @@
 TutorX is a **VS Code Extension** that acts as an **MCP (Model Context Protocol) Server**,
 giving Claude Desktop direct programmatic control over your VS Code environment.
 
-Unlike GitHub Copilot which only **suggests** code, Live Code AI goes further:
+Unlike GitHub Copilot which only **suggests** code, TutorX goes further:
 
 | | GitHub Copilot | TutorX |
 |---|---|---|
